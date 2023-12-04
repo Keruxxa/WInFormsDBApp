@@ -1,0 +1,182 @@
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Form1.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GoodsForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp — копия\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.ProvidersForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddEditGoods.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GoodsForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.ProvidersForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditProviders.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.LoginForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddSupply.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditStocks.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.MainForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksGoodsForm.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.MoveGood.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.UnloadGood.resources
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\DNS\Desktop\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.ResolveComReference.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.ResolveComReference.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.MainForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddEditGoods.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditProviders.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditStocks.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddSupply.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GoodsForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.LoginForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.MoveGood.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.ProvidersForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksGoodsForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.UnloadGood.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Properties.Resources.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CopyComplete
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.ResolveComReference.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.MainForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddEditGoods.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditProviders.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditStocks.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddSupply.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GoodsForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.LoginForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.MoveGood.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.ProvidersForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksGoodsForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.UnloadGood.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Properties.Resources.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.sourcelink.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CopyComplete
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsWithDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.ResolveComReference.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddEditGoods.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditProviders.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.AddEditStocks.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AddSupply.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GoodsForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.LoginForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.MainForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.MoveGood.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.ProvidersForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.StocksGoodsForm.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Forms.UnloadGood.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Properties.Resources.resources
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.sourcelink.json
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CopyComplete
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Folder\Lessons\6_semester\Курсовая работа\Приложение\WInFormsDBApp\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
